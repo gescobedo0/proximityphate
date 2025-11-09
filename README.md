@@ -6,3 +6,5 @@ Moon, van Dijk, Wang, Gigante et al. Visualizing Transitions and Structure for B
 The "PHATE practice" script is an example from this paper. 
 
 the proximity 2D clustering model is adapted from this script, and also extends upon it, e.g. by making data points clickable for better visualization/ tracking
+
+A lot of the actual manifold learning is from the paper, but getting the data ready, formatted correctly and clean, understanding the concepts behind manifold learning in order to interpret the results was a lot of work on my end. 
