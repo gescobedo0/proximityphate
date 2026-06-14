@@ -1,5 +1,5 @@
 # proximityphate
-discovering the latent low-dimensional manifold in protein proximity labeling data via machine learning tools
+visualizing the latent low-dimensional manifold in protein proximity labeling data via manifold learning tools
 ![alt text](mapfromphate.png)
 PHATE is a tool from the Krishnaswamy lab at Yale:
 Moon, van Dijk, Wang, Gigante et al. Visualizing Transitions and Structure for Biological Data Exploration. 2019. Nature Biotechnology.
